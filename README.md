@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo.png"><img width="80%" alt="Marcelo Pires" /></p>
+<img align="center" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo.png" alt="Marcelo Pires">
 
 ## criador de conteúdo de programação e tecnologia!
 <div align="center">
