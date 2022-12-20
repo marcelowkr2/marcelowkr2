@@ -1,4 +1,6 @@
-## Oiii eu sou o Marcelo Pires, criador de conteúdo de programação e tecnologia!
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+## criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/marcelowkr2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/marcelowkr2/imagens/blob/e45b28dca983b7378c49c671ea40fc9dd1626cdf/mpo2.jpg?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo2.png">
   </div>
  
   ##
