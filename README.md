@@ -12,7 +12,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;"  src="https://photos.app.goo.gl/WZakL1TLv4mn3uvc7">
+ <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src="https://discordapp.com/channels/452926217558163456/541443469642563585/1054760999942623302">
 </div>
   
   
