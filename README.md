@@ -2,7 +2,8 @@
   <img align="center" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo.png" alt="Marcelo Pires">
   </div>
 
-## criador de conteúdo de programação e tecnologia!
+<h2 align"center">criador de conteúdo de programação e tecnologia!</h2>
+
 <div align="center">
   <a href="https://github.com/marcelowkr2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
