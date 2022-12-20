@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo.png" alt="Marcelo Pires">
  </div>
-  <div align="center">##Criador de conteúdo de programação e tecnologia!</div>
+  <div align="center"><h2>Criador de conteúdo de programação e tecnologia!</h2></div><br>
 
 <div align="center">
   <a href="https://github.com/marcelowkr2">
