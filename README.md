@@ -27,5 +27,20 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+  
+  {
+  "functions": {
+    "api/*.js": {
+      "memory": 128,
+      "maxDuration": 30
+    }
+  },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/anuraghazra/github-readme-stats"
+    }
+  ]
+}
 
 
