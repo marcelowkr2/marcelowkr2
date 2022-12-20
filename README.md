@@ -1,5 +1,4 @@
 <div align="center">
-  <img align="center" src="https://github.com/marcelowkr2/imagens/blob/a1a3adac1fa4ee25068c2db2f779463ca56d9366/binario.gif" alt"binario">
   <img align="center" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo.png" alt="Marcelo Pires">
  </div>
   <div align="center"><h2>Criador de conteúdo de programação e tecnologia!</h2></div><br>
@@ -18,7 +17,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="marcelo-pic" height="150" style="border-radius:50px;" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo2.png">
+  <img align="right" alt="marcelo-pic" height="150" style="border-radius:50px;" src="https://github.com/marcelowkr2/imagens/blob/d12d2dcea8f1a601f6542704f1814aadbb5e7d45/200w.gif">
   </div>
  
   ##
