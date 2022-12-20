@@ -12,8 +12,10 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/marcelowkr2/imagens/blob/e45b28dca983b7378c49c671ea40fc9dd1626cdf/mpo2.jpg?width=676&height=676">
   
+</div>
+  https://github.com/marcelowkr2/imagens/blob/e45b28dca983b7378c49c671ea40fc9dd1626cdf/mpo2.jpg
   
   ##
  
