@@ -12,7 +12,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;"  src="[https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676](https://scontent.fvix16-1.fna.fbcdn.net/v/t31.18172-8/27788807_1513037062127520_8998717758881432834_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGSG3Y6Ad2bOl684oOCWOwgET366SDjDtURPfrpIOMO1dhsfiy8mGHqmsoWDHdN86NoaBg0uHs4UtnZc8hCcoA1&_nc_ohc=RhovFfysrS4AX-L4vLb&_nc_ht=scontent.fvix16-1.fna&oh=00_AfC2ekMq7eYGt1MQdncLcG_M438Q7effNsqiqpwJ23deIQ&oe=63C93A77)">
+ <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;"  src="https://www.facebook.com/photo.php?fbid=1513037062127520&set=pb.100002637221180.-2207520000.&type=3">
 </div>
   
   
