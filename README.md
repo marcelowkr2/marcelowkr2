@@ -31,10 +31,6 @@
   <a href="https://www.linkedin.com/in/marcelopo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/marcelowkr2/marcelowkr2/blob/output/github-contribution-grid-snake.svg)<br>
-  
-  
+  </div>
   <iframe src="https://marcelowkr2.github.io/space-invader/" frameborder="0"></iframe>
-  
-</div>
-  
   
