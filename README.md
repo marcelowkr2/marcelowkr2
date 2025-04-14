@@ -20,7 +20,7 @@
     <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="right" alt="marcelo-pic" height="150" style="border-radius:50px;" src="https://github.com/marcelowkr2/imagens/blob/2c5cdd4d99c341df1015b28166c2706d7860219b/430910.png">
   </div>
-</div>
+
 
  
   ##
