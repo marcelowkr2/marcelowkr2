@@ -26,6 +26,15 @@
 
 ---
 
+<div align="center"><h2>Desenvolvedor Fullstack.</h2></div><br>
+<div align="center">
+<a href="https://github.com/marcelowkr2">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelowkr2&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
+  
+---
+
 ## 📈 Estatísticas do GitHub
 
 ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelopo&show_icons=true&theme=radical)
