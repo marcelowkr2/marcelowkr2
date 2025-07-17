@@ -37,9 +37,9 @@
 
 ## 🚀 Repositórios em destaque
 
-- 🧩 **[infosystema](https://github.com/marcelopo/infosystema)** — Plataforma com foco em soluções web integradas.
-- 🛠️ **[django-api-project](https://github.com/marcelopo/django-api-project)** — Backend poderoso com Django REST e autenticação.
-- 💡 **[react-dashboard](https://github.com/marcelopo/react-dashboard)** — Interface de painel administrativo com React + Chart.js.
+- 🧩 **[Cibersegurança](https://github.com/marcelowkr2/projeto-future.git)** — PROJETO DE AVALIZAÇÃO DE MATURIDADE DE CIBERSEGURANÇA.
+- 🛠️ **[Portifolio](https://marcelowkr2.github.io/projeto-portfolio/)** — MEU PORTIFÓLIO PROFISSINAL
+- 💡 **[Gestão de Vandas](https://github.com/marcelowkr2/gestao_vendas.git)** — SISTEMA DE GEST~SO DE VENDAS EM JAVA.
 
 ---
 
