@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="center" src="https://github.com/marcelowkr2/imagens/blob/4585a5ce4481d7bfba15ee549eda134529ff18fb/logo.png" alt="Marcelo Pires">
+ </div>
+
 # 👋 Olá, eu sou o Marcelo Pires de Oliveira
 
 🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
