@@ -39,7 +39,9 @@
 
 - 🧩 **[Cibersegurança](https://github.com/marcelowkr2/projeto-future.git)** — PROJETO DE AVALIZAÇÃO DE MATURIDADE DE CIBERSEGURANÇA.
 - 🛠️ **[Portifolio](https://marcelowkr2.github.io/projeto-portfolio/)** — MEU PORTIFÓLIO PROFISSINAL
-- 💡 **[Gestão de Vandas](https://github.com/marcelowkr2/gestao_vendas.git)** — SISTEMA DE GEST~SO DE VENDAS EM JAVA.
+- 💡 **[Gestão de Vandas](https://github.com/marcelowkr2/gestao_vendas.git)** — SISTEMA DE GESTÃO DE VENDAS EM JAVA.
+- 🏠 **[CLONE-Airbnb](https://github.com/marcelowkr2/clone-Airbnb.git)** — CLONE-Airbnb.
+- 🛒 **[Ecommerce](https://github.com/marcelowkr2/ecommerce-master.git)** — ECOMMERCE PROJETO ME JAVASCRIPT.
 
 ---
 
