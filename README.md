@@ -54,4 +54,6 @@
 
 > 🧠 “A tecnologia move o mundo, mas a paixão é o que dá sentido.” – Marcelo Pires
 
+<a href="https://www.linkedin.com/in/marcelopo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <img align="center" alt="Trofeus" height="110" width="908" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736964646861727468612d75703830267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565.svg">
+
