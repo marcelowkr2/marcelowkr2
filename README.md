@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/Programming-Language-PNG-Download-Image.png?raw=true" alt="Marcelo Pires">
+  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/linguagens-de-programacao.png?raw=true" alt="Marcelo Pires">
  </div>
 
 # 👋 Olá, eu sou o Marcelo Pires de Oliveira
