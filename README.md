@@ -96,6 +96,10 @@ Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, est
 
 ---
 
+<div align="center">
+  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/bibliotecasPython.gif?raw=true" alt="Marcelo Pires">
+</div>
+
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelopo/)
@@ -112,3 +116,4 @@ Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, est
 </a> 
 
 <img align="center" alt="Troféus" height="110" width="908" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736964646861727468612d75703830267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565.svg">
+
