@@ -17,6 +17,9 @@
 🌱 Estudando constantemente para evoluir como dev e como ser humano  
 📫 Contato rápido: [LinkedIn](https://www.linkedin.com/in/marcelopo/)
 
+<div align="center">
+  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Pires">
+</div>
 ---
 
 # 🚀 Minha Jornada
