@@ -5,7 +5,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ola+Me+Chamo+Marcelo+Pires!;Desenvolvedor+Full+Stack!;Foco+em+Python,+Django,+e+React!;&font=Fira%20Code&center=true&width=100&height=50&fontSize40&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ola+Me+Chamo+Marcelo+Pires!;Desenvolvedor+Full+Stack!;Foco+em+Python,+Django,+e+React!;&font=Fira%20Code&center=true&width=100&height=150&fontSize40&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 
 <!-- markdownlint-enable MD033 -->
