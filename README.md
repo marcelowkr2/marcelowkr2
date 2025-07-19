@@ -12,9 +12,9 @@
 
 # 🏆 Sobre Mim
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-<div>
+<table>
+  <tr>
+    <td width="70%">
 
 🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
 🚀 Apaixonado por tecnologia, inovação e impacto digital  
@@ -22,21 +22,20 @@
 🌱 Estudando constantemente para evoluir como dev e como ser humano  
 📫 Contato rápido: [LinkedIn](https://www.linkedin.com/in/marcelopo/)
 
-</div>
-
-<div align="right">
-  <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="180">
-</div>
-
-</div>
+</td>
+    <td align="right" width="30%">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🚀 Minha Jornada
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-<div>
+<table>
+  <tr>
+    <td width="70%">
 
 Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
 
@@ -44,13 +43,12 @@ Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cad
 
 Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
 
-</div>
-
-<div align="right">
-  <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder" width="180">
-</div>
-
-</div>
+</td>
+    <td align="right" width="30%">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
