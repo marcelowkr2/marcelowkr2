@@ -97,7 +97,7 @@ Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, est
 ---
 
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Marcelo Pires">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" alt="Marcelo Pires" width="250">
 </div>
 
 ## 🌐 Onde me encontrar
