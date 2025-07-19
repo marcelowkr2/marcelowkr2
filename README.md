@@ -45,7 +45,7 @@ Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, est
 
 </td>
     <td style="border: none;" align="right" width="30%">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="150">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="200">
     </td>
   </tr>
 </table>
