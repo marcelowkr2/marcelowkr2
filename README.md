@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/linguagens-de-programacao.png?raw=true" alt="Marcelo Pires">
+  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/Captura%20de%20tela%202025-07-19%20173054.png?raw=true" alt="Marcelo Pires">
 </div>
 
 <!-- markdownlint-disable MD033 MD041 -->
