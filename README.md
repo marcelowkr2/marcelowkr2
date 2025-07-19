@@ -24,7 +24,7 @@
 
 </td>
     <td align="right">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="160">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="260">
     </td>
   </tr>
 </table>
