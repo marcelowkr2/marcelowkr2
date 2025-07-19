@@ -39,7 +39,7 @@
       Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
     </td>
     <td style="padding: 0; vertical-align: top; width: 35%; text-align: right;">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="150" style="display: block; margin-left: auto;">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="200" style="display: block; margin-left: auto;">
     </td>
   </tr>
 </table>
