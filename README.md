@@ -96,10 +96,6 @@ Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, est
 
 ---
 
-<div align="center">
-  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/SystemDesign.gif?raw=true" alt="Marcelo Pires" width="250">
-</div>
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelopo/)
