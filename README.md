@@ -16,18 +16,19 @@
   <tr>
     <td style="border: none;" width="70%">
 
-🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
-🚀 Apaixonado por tecnologia, inovação e impacto digital  
-💼 Atualmente trabalhando em projetos pessoais e soluções empresariais  
-🌱 Estudando constantemente para evoluir como dev e como ser humano  
-📫 Contato rápido: [LinkedIn](https://www.linkedin.com/in/marcelopo/)
+Tenho uma forte paixão por criar soluções que realmente façam a diferença, seja para empresas, usuários finais ou a comunidade. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas complexos e transformar ideias em realidade.
+
+Além do desenvolvimento, sou entusiasta de metodologias ágeis e boas práticas de desenvolvimento, buscando sempre entregar código limpo, eficiente e escalável. Gosto de colaborar em equipes multidisciplinares, aprendendo e ensinando para evoluir junto.
+
+Me mantenho atualizado acompanhando as tendências do mercado, estudando novas linguagens, frameworks e ferramentas para expandir meu conjunto de habilidades. Meu objetivo é crescer como profissional, contribuindo para projetos que impactem positivamente o mundo ao nosso redor.
 
 </td>
-    <td style="border: none;" align="right" width="50%">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="200">
+    <td style="border: none;" align="right" width="30%">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder 2" width="250">
     </td>
   </tr>
 </table>
+
 
 ---
 
