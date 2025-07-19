@@ -18,9 +18,9 @@
 
 💓Tenho uma forte paixão por criar soluções que realmente façam a diferença, seja para empresas, usuários finais ou a comunidade. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas complexos e transformar ideias em realidade.
 
-Além do desenvolvimento, sou entusiasta de metodologias ágeis e boas práticas de desenvolvimento, buscando sempre entregar código limpo, eficiente e escalável. Gosto de colaborar em equipes multidisciplinares, aprendendo e ensinando para evoluir junto.
+✅Além do desenvolvimento, sou entusiasta de metodologias ágeis e boas práticas de desenvolvimento, buscando sempre entregar código limpo, eficiente e escalável. Gosto de colaborar em equipes multidisciplinares, aprendendo e ensinando para evoluir junto.
 
-Me mantenho atualizado acompanhando as tendências do mercado, estudando novas linguagens, frameworks e ferramentas para expandir meu conjunto de habilidades. Meu objetivo é crescer como profissional, contribuindo para projetos que impactem positivamente o mundo ao nosso redor.
+✅Me mantenho atualizado acompanhando as tendências do mercado, estudando novas linguagens, frameworks e ferramentas para expandir meu conjunto de habilidades. Meu objetivo é crescer como profissional, contribuindo para projetos que impactem positivamente o mundo ao nosso redor.
 
 </td>
     <td style="border: none;" align="right" width="30%">
@@ -38,7 +38,7 @@ Me mantenho atualizado acompanhando as tendências do mercado, estudando novas l
   <tr>
     <td style="border: none;" width="70%">
 
-Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
+🏆Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
 
 Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.
 
