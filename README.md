@@ -16,7 +16,7 @@
   <tr>
     <td style="border: none;" width="70%">
 
-Tenho uma forte paixão por criar soluções que realmente façam a diferença, seja para empresas, usuários finais ou a comunidade. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas complexos e transformar ideias em realidade.
+💓Tenho uma forte paixão por criar soluções que realmente façam a diferença, seja para empresas, usuários finais ou a comunidade. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas complexos e transformar ideias em realidade.
 
 Além do desenvolvimento, sou entusiasta de metodologias ágeis e boas práticas de desenvolvimento, buscando sempre entregar código limpo, eficiente e escalável. Gosto de colaborar em equipes multidisciplinares, aprendendo e ensinando para evoluir junto.
 
