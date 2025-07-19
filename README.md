@@ -1,22 +1,31 @@
 <div align="center">
   <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/linguagens-de-programacao.png?raw=true" alt="Marcelo Pires">
- </div>
+</div>
 
- <!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Ola+Me+Chamo+Marcelo+Pires!;Desenvolvedor+Full+Stack!;Foco+em+Python,+Django,+e+React!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Ola+Me+Chamo+Marcelo+Pires!;Desenvolvedor+Full+Stack!;Foco+em+Python,+Django,+e+React!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </p>
 <!-- markdownlint-enable MD033 -->
 
-
-# 👋 Olá, eu sou o Marcelo Pires de Oliveira
+# 🏆 Sobre Mim
 
 🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
 🚀 Apaixonado por tecnologia, inovação e impacto digital  
 💼 Atualmente trabalhando em projetos pessoais e soluções empresariais  
 🌱 Estudando constantemente para evoluir como dev e como ser humano  
 📫 Contato rápido: [LinkedIn](https://www.linkedin.com/in/marcelopo/)
+
+---
+
+# 🚀 Minha Jornada
+
+Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
+
+Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.
+
+Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
 
 ---
 
@@ -34,22 +43,23 @@
 
 ---
 
-<div align="center"><h2>Desenvolvedor Fullstack.</h2></div><br>
+<div align="center"><h2>Desenvolvedor Fullstack</h2></div><br>
 <div align="center">
-<a href="https://github.com/marcelowkr2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelowkr2&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <a href="https://github.com/marcelowkr2">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelowkr2&layout=compact&langs_count=7&theme=great-gatsby"/>
+  </a>
 </div>
-  
+
 ---
 
 ## 🚀 Repositórios em destaque
 
-- 🧩 **[Cibersegurança](https://github.com/marcelowkr2/projeto-future.git)** — PROJETO DE AVALIZAÇÃO DE MATURIDADE DE CIBERSEGURANÇA.
-- 🛠️ **[Portifolio](https://marcelowkr2.github.io/projeto-portfolio/)** — MEU PORTIFÓLIO PROFISSINAL
-- 💡 **[Gestão de Vandas](https://github.com/marcelowkr2/gestao_vendas.git)** — SISTEMA DE GESTÃO DE VENDAS EM JAVA.
-- 🏠 **[CLONE-Airbnb](https://github.com/marcelowkr2/clone-Airbnb.git)** — CLONE-Airbnb.
-- 🛒 **[Ecommerce](https://github.com/marcelowkr2/ecommerce-master.git)** — ECOMMERCE PROJETO ME JAVASCRIPT.
+- 🧩 **[Cibersegurança](https://github.com/marcelowkr2/projeto-future.git)** — Projeto de avaliação de maturidade de cibersegurança.  
+- 🛠️ **[Portfólio](https://marcelowkr2.github.io/projeto-portfolio/)** — Meu portfólio profissional.  
+- 💡 **[Gestão de Vendas](https://github.com/marcelowkr2/gestao_vendas.git)** — Sistema de gestão de vendas em Java.  
+- 🏠 **[Clone Airbnb](https://github.com/marcelowkr2/clone-Airbnb.git)** — Clone da plataforma Airbnb.  
+- 🛒 **[E-commerce](https://github.com/marcelowkr2/ecommerce-master.git)** — Projeto de e-commerce com JavaScript.
 
 ---
 
@@ -65,5 +75,5 @@
 > 🧠 “A tecnologia move o mundo, mas a paixão é o que dá sentido.” – Marcelo Pires
 
 <a href="https://www.linkedin.com/in/marcelopo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img align="center" alt="Trofeus" height="110" width="908" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736964646861727468612d75703830267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565.svg">
 
+<img align="center" alt="Troféus" height="110" width="908" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736964646861727468612d75703830267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565.svg">
