@@ -12,9 +12,9 @@
 
 # 🏆 Sobre Mim
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <div align="left" style="width: 70%;">
-    
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
+  <div style="flex: 1; max-width: 65%; text-align: left;">
+
 🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
 🚀 Apaixonado por tecnologia, inovação e impacto digital  
 💼 Atualmente trabalhando em projetos pessoais e soluções empresariais  
@@ -22,8 +22,8 @@
 📫 Contato rápido: [LinkedIn](https://www.linkedin.com/in/marcelopo/)
 
   </div>
-  <div align="right" style="width: 30%;">
-    <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="200">
+  <div style="max-width: 30%;">
+    <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" style="display: block; width: 100%; height: auto;">
   </div>
 </div>
 
@@ -31,9 +31,9 @@
 
 # 🚀 Minha Jornada
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <div align="left" style="width: 70%;">
-    
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
+  <div style="flex: 1; max-width: 65%; text-align: left;">
+
 Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
 
 Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.
@@ -41,8 +41,8 @@ Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cad
 Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
 
   </div>
-  <div align="right" style="width: 30%;">
-    <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="150">
+  <div style="max-width: 30%;">
+    <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" style="display: block; width: 100%; height: auto;">
   </div>
 </div>
 
@@ -63,7 +63,6 @@ Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, est
 ---
 
 <div align="center"><h2>Desenvolvedor Fullstack</h2></div><br>
-
 <div align="center">
   <a href="https://github.com/marcelowkr2">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
