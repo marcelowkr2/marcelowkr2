@@ -14,7 +14,7 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;" width="30%">
+    <td style="border: none;" width="70%">
 
 🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
 🚀 Apaixonado por tecnologia, inovação e impacto digital  
