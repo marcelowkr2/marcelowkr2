@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/linguagens-de-programacao.png?raw=true" alt="Marcelo Pires">
+</div>
+
 <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
