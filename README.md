@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/linguagens-de-programacao.png?raw=true" alt="Marcelo Pires">
+  <img align="center" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/linguagens-de-programacao.png?raw=true" alt="Marcelo Pires">
 </div>
 
 <!-- markdownlint-disable MD033 MD041 -->
@@ -12,37 +12,39 @@
 
 # 🏆 Sobre Mim
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 0 10px 0 0; vertical-align: top; width: 65%; text-align: left;">
-      🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React<br>
-      🚀 Apaixonado por tecnologia, inovação e impacto digital<br>
-      💼 Atualmente trabalhando em projetos pessoais e soluções empresariais<br>
-      🌱 Estudando constantemente para evoluir como dev e como ser humano<br>
-      📫 Contato rápido: <a href="https://www.linkedin.com/in/marcelopo/">LinkedIn</a>
-    </td>
-    <td style="padding: 0; vertical-align: top; width: 35%; text-align: right;">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="200" style="display: block; margin-left: auto;">
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div align="left" style="width: 70%;">
+    
+🎯 Desenvolvedor Full Stack | 🧠 Foco em soluções com Python, Django e React  
+🚀 Apaixonado por tecnologia, inovação e impacto digital  
+💼 Atualmente trabalhando em projetos pessoais e soluções empresariais  
+🌱 Estudando constantemente para evoluir como dev e como ser humano  
+📫 Contato rápido: [LinkedIn](https://www.linkedin.com/in/marcelopo/)
+
+  </div>
+  <div align="right" style="width: 30%;">
+    <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder" width="200">
+  </div>
+</div>
 
 ---
 
 # 🚀 Minha Jornada
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 0 10px 0 0; vertical-align: top; width: 65%; text-align: left;">
-      Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.<br><br>
-      Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.<br><br>
-      Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
-    </td>
-    <td style="padding: 0; vertical-align: top; width: 35%; text-align: right;">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="200" style="display: block; margin-left: auto;">
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <div align="left" style="width: 70%;">
+    
+Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
+
+Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.
+
+Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
+
+  </div>
+  <div align="right" style="width: 30%;">
+    <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%202.png?raw=true" alt="Marcelo Coder 2" width="150">
+  </div>
+</div>
 
 ---
 
@@ -61,6 +63,7 @@
 ---
 
 <div align="center"><h2>Desenvolvedor Fullstack</h2></div><br>
+
 <div align="center">
   <a href="https://github.com/marcelowkr2">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelowkr2&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -91,8 +94,6 @@
 
 > 🧠 “A tecnologia move o mundo, mas a paixão é o que dá sentido.” – Marcelo Pires
 
-<a href="https://www.linkedin.com/in/marcelopo" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> 
+<a href="https://www.linkedin.com/in/marcelopo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<img align="center" alt="Troféus" height="110" width="908" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736964646861727468612d75703830267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565.svg" />
+<img align="center" alt="Troféus" height="110" width="908" src="https://github.com/marcelowkr2/marcelowkr2/blob/main/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d736964646861727468612d75703830267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565.svg">
