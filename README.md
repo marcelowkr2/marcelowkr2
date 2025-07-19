@@ -24,7 +24,7 @@ Me mantenho atualizado acompanhando as tendências do mercado, estudando novas l
 
 </td>
     <td style="border: none;" align="right" width="30%">
-      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocode%203.png?raw=true" alt="Marcelo Coder 2" width="250">
+      <img src="https://github.com/marcelowkr2/marcelowkr2/blob/main/marcelocoder4.png?raw=true" alt="Marcelo Coder 2" width="250">
     </td>
   </tr>
 </table>
