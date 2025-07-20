@@ -40,9 +40,9 @@
 
 🏆Minha jornada como desenvolvedor começou há pouco mais de dois anos, e desde então tem sido uma trajetória intensa de aprendizado, prática e crescimento constante. Desde os primeiros projetos, mergulhei de cabeça no universo da tecnologia, enfrentando desafios reais e buscando soluções eficientes e criativas.
 
-Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.
+⏳Ao longo desse tempo, tive a oportunidade de trabalhar em diversos projetos, cada um com suas próprias particularidades e exigências técnicas. Essa variedade me permitiu ampliar minha visão, testar diferentes abordagens e aprimorar habilidades essenciais como resolução de problemas, escrita de código limpo e trabalho em equipe.
 
-Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
+😊Sou movido pela curiosidade e pelo desejo constante de evolução. Por isso, estou sempre atento às novas tecnologias e tendências do mercado — acredito que inovação e atualização andam lado a lado. Me esforço para ir além do básico, criando soluções não apenas funcionais, mas também escaláveis e bem estruturadas. 🔍
 
 </td>
     <td style="border: none;" align="right" width="30%">
