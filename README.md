@@ -88,8 +88,10 @@
 
 ## 🚀 Repositórios em destaque
 
-- 🧩 **[Cibersegurança](https://github.com/marcelowkr2/projeto-future.git)** — Projeto de avaliação de maturidade de cibersegurança.  
-- 🛠️ **[Portfólio](https://marcelowkr2.github.io/projeto-portfolio/)** — Meu portfólio profissional.  
+- 🛠️ **[Portfólio](https://portifolio-marcelo-pires.netlify.app/)** — Meu portfólio profissional.  
+- 🧩 **[Cibersegurança](https://github.com/marcelowkr2/projeto-future.git)** — Projeto de avaliação de maturidade de cibersegurança.
+- 🐾 **[Sistema Veterinário SaaS](https://github.com/marcelowkr2/Projeto_Sass_Veterinaria)** — Gestão completa para veterinárias.
+- 📱 **[Portal de Notícias](https://github.com/marcelowkr2/portal_de_noticias)** — Um sistema completo de portal de notícias desenvolvido com Django (backend) e Next.js (frontend),.
 - 💡 **[Gestão de Vendas](https://github.com/marcelowkr2/gestao_vendas.git)** — Sistema de gestão de vendas em Java.  
 - 🏠 **[Clone Airbnb](https://github.com/marcelowkr2/clone-Airbnb.git)** — Clone da plataforma Airbnb.  
 - 🛒 **[E-commerce](https://github.com/marcelowkr2/ecommerce-master.git)** — Projeto de e-commerce com JavaScript.
